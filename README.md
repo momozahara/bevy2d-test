@@ -1,4 +1,4 @@
-# bevy2D-TEST
+# BEVY2D-TEST
 
 This is my first time learning [ECS](https://en.wikipedia.org/wiki/Entity_component_system).
 
