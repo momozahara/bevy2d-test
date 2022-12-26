@@ -9,3 +9,7 @@ This is my first time learning [ECS](https://en.wikipedia.org/wiki/Entity_compon
 **F** - spawn npc on player location \
 **G** - delete all of npc \
 **[ ]** - zoom out/in
+
+## Assets
+
+[KENNEY 1-Bit Pack](https://www.kenney.nl/assets/bit-pack)
